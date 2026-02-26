@@ -1,1 +1,7 @@
-conconsole.log("Base application");
+console.log("Base application");
+
+function login() {
+  console.log("Login feature added");
+}
+
+login();
