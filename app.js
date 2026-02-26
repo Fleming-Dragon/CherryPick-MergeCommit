@@ -1,1 +1,1 @@
-conconsole.log("Base application");
+console.log("Base application");
